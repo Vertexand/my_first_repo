@@ -18,3 +18,6 @@
 * list two
 * list three
 Text in English.
+
+## Команда
+*git commit -a -m "message"  - добавить в текущий коммит все измененные файлы 
